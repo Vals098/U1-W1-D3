@@ -33,11 +33,9 @@ header img {
   width: 12em;
 }
 
-#top-hr {
-  border-top: #fef1cf;
-}
-
 #top-box {
+  height: 3em;
+  border-top: solid 2px #fef1cf;
   background-color: #fdfbf1;
 }
 
